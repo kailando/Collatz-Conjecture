@@ -31,6 +31,7 @@ Method #2 is to find a number sequence that has a different loop than the `4, 2,
    A. Seed/Next (3x+1) table
    
    B. Agent table
+   
 4. Agent
    
    A. Agent brain
