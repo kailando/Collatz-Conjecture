@@ -1,5 +1,5 @@
-# 3x+1.py
-### What is 3x+1?
+# CollatzConjecture.py
+### What is the Collatz Conjecture (3x+1)?
 3x+1 is a **infamous maththimatics problem** among mathmaticians. The 3x+1 statement is that ***every* seed** will eventually reach & get stuck in a `4, 2, 1, 4, 2, 1` loop.
 *Note:  The 3x+1 statement is not true for negative numbers. There are 3 loops in the negative side of the number line.*
 ### How do I calculate the 3x+1 number sequence?
