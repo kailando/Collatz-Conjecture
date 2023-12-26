@@ -27,9 +27,11 @@ Method #2 is to find a number sequence that has a different loop than the `4, 2,
 ### To do:
 1. Plotting
 2. Tables(s)
+   
    A. Seed/Next (3x+1) table
+   
    B. Agent table
-3. Agent
+4. Agent
    
    A. Agent brain
    
