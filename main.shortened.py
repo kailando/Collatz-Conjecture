@@ -1,3 +1,4 @@
+print(f"Licencing: GNU Public Licence V. 3.0")
 def p(c):
   i=[c]
   while c!=1:
