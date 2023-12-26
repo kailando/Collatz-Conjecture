@@ -1,5 +1,8 @@
 # 3x+1 problem
 # The 3x+1 rule is: If x is odd, x=3*x+1. If x is even, x=x/2.
+
+print(f"Licencing: GNU Public Licence V. 3.0")
+
 global isEven
 isEven=lambda number : not number%2
 
